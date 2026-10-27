@@ -1,0 +1,15 @@
+{
+  "name": "canada-housing-sarima-forecasting",
+  "description": "Box-Jenkins analysis, manual SARIMA recursions and chronological forecast evaluation of Canadian real residential property prices.",
+  "topics": [
+    "time-series",
+    "forecasting",
+    "sarima",
+    "arima",
+    "r",
+    "econometrics",
+    "housing-prices",
+    "box-jenkins"
+  ],
+  "visibility": "public"
+}
